@@ -1,6 +1,6 @@
 # SwiftUI-AdaptiveKit
 
-Here are comprehensive examples of how to use the refactored AdaptiveKit with SwiftUI views:Here are the key usage patterns demonstrated:
+Here are comprehensive examples of how to use the AdaptiveKit with SwiftUI views:Here are the key usage patterns demonstrated:
 
 ## 1. **Numeric Extensions** (`.h` and `.w`)
 ```swift
